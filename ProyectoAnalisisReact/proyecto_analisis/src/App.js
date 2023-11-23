@@ -16,6 +16,9 @@ import Home from './Home';
 import RegisterUser from './RegisterUser';
 import Navbar from './NavBar';
 import Footer from './Footer';
+import ListaCitas from './ListaCitas';
+import AgregarCita from './AgregarCita';
+import EditarCita from './EditarCita';
 
 function App() {
 
@@ -48,6 +51,12 @@ function App() {
         <Route path="/reparaciones" element={<ReparacionesView />} />
         <Route path="/agregarReparacion" element={<AgregarReparacionForm />} />
         <Route path="/editarReparacion/:id" element={<EditarReparacion />} />
+
+
+        <Route path="/citas" element={<ListaCitas />} />
+        <Route path="/agregarCita" element={<AgregarCita />} />
+        <Route path="/editarCita/:id" element={<EditarCita />} />
+
 
         <Route path="/Home" element={<Home setIsLogin={setIsLogin} setIsSignup={setIsSignup} setIsAdmin= {setIsAdmin}/>} />
         <Route path="/registerUser" element={<RegisterUser/>} />

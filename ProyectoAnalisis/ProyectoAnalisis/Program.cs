@@ -10,7 +10,7 @@ builder.Configuration
 
 //Entity framework
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer("Server=.\\SQLEXPRESS;Database=db_reparacion;Trusted_Connection=true;Encrypt=false"));
+    options.UseSqlServer("Server=(local);Database=db_reparacion;Trusted_Connection=true;Encrypt=false"));
 
 // CORS
 var corsPolicyName = "MyCors";

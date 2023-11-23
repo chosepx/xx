@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Joan\\Universidad\\analisis 2023\\proyecto\\Proyecto-Supercell-Analisis\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj": {}
+    "F:\\joan 2\\analisis-Joansolo\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj": {}
   },
   "projects": {
-    "D:\\Joan\\Universidad\\analisis 2023\\proyecto\\Proyecto-Supercell-Analisis\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj": {
+    "F:\\joan 2\\analisis-Joansolo\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Joan\\Universidad\\analisis 2023\\proyecto\\Proyecto-Supercell-Analisis\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj",
+        "projectUniqueName": "F:\\joan 2\\analisis-Joansolo\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj",
         "projectName": "ProyectoAnalisis",
-        "projectPath": "D:\\Joan\\Universidad\\analisis 2023\\proyecto\\Proyecto-Supercell-Analisis\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Joan\\Universidad\\analisis 2023\\proyecto\\Proyecto-Supercell-Analisis\\ProyectoAnalisis\\ProyectoAnalisis\\obj\\",
+        "projectPath": "F:\\joan 2\\analisis-Joansolo\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj",
+        "packagesPath": "C:\\Users\\chose\\.nuget\\packages\\",
+        "outputPath": "F:\\joan 2\\analisis-Joansolo\\ProyectoAnalisis\\ProyectoAnalisis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Usuario\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
